@@ -7,11 +7,11 @@ body{
 .footer{
     background: rgb(243, 247, 248);
     color:navy;
-    height:920px;
+    height:1000px;
     position:relative;
 }
 .footer .footer-content{
-    height:870px;
+    height:900px;
     display:flex;
 }   
 .footer .footer-content .footer-section{
