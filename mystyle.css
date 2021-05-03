@@ -5,8 +5,8 @@ body{
     font-family: 'Trebuchet MS', sans-serif;
 }
 .footer{
-    background: rgb(243, 247, 248);
-    color:navy;
+    background: black;
+    color:white;
     height:1000px;
     position:relative;
 }
